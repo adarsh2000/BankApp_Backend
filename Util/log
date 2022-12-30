@@ -1,0 +1,12 @@
+[2022-12-29T12:05:37.191] [INFO] default - Server started at http://localhost:8080}
+[2022-12-29T14:58:43.338] [ERROR] default - got the err while Extracting the data from Database:TypeError: Cannot read properties of undefined (reading 'query')
+[2022-12-29T14:58:43.356] [INFO] default - Server started at http://localhost:8080}
+[2022-12-29T15:00:04.697] [ERROR] default - got the err while Extracting the data from Database:TypeError: Cannot read properties of undefined (reading 'query')
+[2022-12-29T15:00:04.723] [INFO] default - Server started at http://localhost:8080}
+[2022-12-29T15:00:57.744] [ERROR] default - got the err while Extracting the data from Database:TypeError: Cannot read properties of undefined (reading 'query')
+[2022-12-29T15:00:57.767] [INFO] default - Server started at http://localhost:8080}
+[2022-12-29T15:02:19.349] [ERROR] default - got the err while Extracting the data from Database:TypeError: Cannot read properties of undefined (reading 'query')
+[2022-12-29T15:02:19.383] [INFO] default - Server started at http://localhost:8080}
+[2022-12-29T15:03:41.052] [INFO] default - Get the data for Querry:SELECT * from players}
+[2022-12-29T15:03:41.054] [INFO] default - the Data got :[object Object]}
+[2022-12-29T15:03:41.124] [INFO] default - Server started at http://localhost:8080}
